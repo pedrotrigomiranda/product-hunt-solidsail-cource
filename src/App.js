@@ -17,16 +17,15 @@ import {
   createOutline,
   trendingUpOutline,
 } from "ionicons/icons";
-
 import Home from "./pages/Home";
 import Trending from "./pages/Trending";
 import Submit from "./pages/Submit";
 import Search from "./pages/Search";
 import Profile from "./pages/Profile";
-import Login from "./pages/Login";
 import EditProfile from "./pages/EditProfile";
-import Forgot from "./pages/Forgot";
+import Login from "./pages/Login";
 import Signup from "./pages/Signup";
+import Forgot from "./pages/Forgot";
 
 /* Core CSS required for Ionic components to work properly */
 import "@ionic/react/css/core.css";
@@ -96,5 +95,4 @@ const App = () => {
     </IonApp>
   );
 };
-
 export default App;
