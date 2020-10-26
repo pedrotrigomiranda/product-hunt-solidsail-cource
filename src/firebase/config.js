@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyC_gQiL1NuKrs8ED1jIhrknrJl2wMMNS8U",
+  apiKey: "AIzaSyAIIHODGj7EwJQPcz1Q5D4XYykSFE1sELw",
   authDomain: "hunt-documentation.firebaseapp.com",
   databaseURL: "https://hunt-documentation.firebaseio.com",
   projectId: "hunt-documentation",
